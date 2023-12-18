@@ -1,0 +1,32 @@
+NAME
+    Task::Tree::Manager - Install the Tree::Manager modules.
+
+SYNOPSIS
+     cpanm Task::Tree::Manager
+
+SEE ALSO
+    Random::Tree::Manager
+        Generate random data for tree manager.
+
+    Tags::HTML::Tree::Manager
+        TODO
+
+    Plack::App::Tree::Manager
+        TODO
+
+REPOSITORY
+    <https://github.com/michal-josef-spacek/Task-Tree-Manager>
+
+AUTHOR
+    Michal Josef Špaček <mailto:skim@cpan.org>
+
+    <http://skim.cz>
+
+LICENSE AND COPYRIGHT
+    © 2023 Michal Josef Špaček
+
+    BSD 2-Clause License
+
+VERSION
+    0.01
+
